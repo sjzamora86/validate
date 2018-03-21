@@ -1,8 +1,8 @@
 {
-  "name": "validate",
+  "name": "validate-object",
   "description": "Validate object properties in javascript.",
   "version": "4.0.0",
-  "author": "Eivind Fjeldstad",
+  "author": "Joan Zamora",
   "repository": "eivindfjeldstad/validate",
   "keywords": [
     "validation",
